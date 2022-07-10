@@ -1,0 +1,22 @@
+table
+{
+border:8px solid black;
+float:center;
+}
+td{
+width: 70px;
+height: 70px;
+text-align: center;
+}
+.black{
+background-color:black;
+font-size:50px;
+}
+.white{
+background-color:white;
+font-size:50px;
+}
+#pawn,#knight,#bishop,#rook,#king,#queen,#horse,#power{
+    color: gold;
+}
+
