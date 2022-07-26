@@ -17,6 +17,6 @@ background-color:white;
 font-size:50px;
 }
 #pawn,#knight,#bishop,#rook,#king,#queen,#horse,#power{
-    color: gold;
+    color: #ffbf80;
 }
 
